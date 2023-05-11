@@ -183,6 +183,21 @@ a:visited {
   width: 100%;
 }
 
+.main .standalone-module {
+  box-sizing: border-box;
+  border-style: solid;
+  overflow: visible;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  z-index: 39;
+}
+.main .module-content {
+  width: 100%;
+  position: relative;
+  box-sizing: border-box;
+}
+
 .data-module-template,
 .data-unit-id {
   position: relative;
@@ -368,7 +383,8 @@ a:visited {
   }
 }
 
-.module-content {
+.heroes .module-content,
+.promos .module-content {
   padding-top: var(--nav-height);
   width: 100%;
   max-width: 2560px;
@@ -1247,6 +1263,129 @@ h6 {
 @media only screen and (max-width: 1068px) {
   #apple-card .subhead:nth-child(3) {
     max-width: 280px;
+  }
+}
+
+/* Gallery */
+.gallery {
+  overflow: hidden;
+  position: relative;
+  height: 561.13167px;
+  background: #f10000;
+  width: 100%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 1441px) {
+  .gallery {
+    height: 705.25979px;
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .gallery {
+    height: 405.79359px;
+  }
+}
+
+@media only screen and (max-width: 734px) {
+  .gallery {
+    height: 533px;
+  }
+}
+
+#tv-plus-gallery {
+  position: relative;
+  border-bottom: 0;
+}
+
+.gallery .gallery-item {
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  height: 523.13167px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 0 !important;
+}
+
+@media (min-width: 1441px) {
+  .gallery .gallery-item {
+    height: 667.25979px;
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .gallery .gallery-item {
+    height: 367.79359px;
+  }
+}
+
+@media only screen and (max-width: 734px) {
+  .gallery .gallery-item {
+    height: 495px;
+  }
+}
+
+.gallery .item-container {
+  position: relative;
+  width: 995px;
+  margin: 0 auto;
+  background: #2400f1;
+  height: 100%;
+}
+
+@media (min-width: 1441px) {
+  .gallery .item-container {
+    width: 1265px;
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .gallery .item-container {
+    width: 704px;
+  }
+}
+
+@media only screen and (max-width: 734px) {
+  .gallery .item-container {
+    width: 289px;
+  }
+}
+
+.gallery .item-container a {
+  background-size: cover;
+  background-position: center;
+  width: 980px;
+  margin: 0 auto;
+  height: 100%;
+  will-change: opacity;
+}
+
+@media (min-width: 1441px) {
+  .main [data-module-template="tv-plus-gallery"] .gallery .item-container a {
+    width: 1250px;
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .main [data-module-template="tv-plus-gallery"] .gallery .item-container a {
+    width: 689px;
+  }
+}
+
+@media only screen and (max-width: 734px) {
+  .main [data-module-template="tv-plus-gallery"] .gallery .item-container a {
+    width: 274px;
+    background-position: top center;
   }
 }
 
