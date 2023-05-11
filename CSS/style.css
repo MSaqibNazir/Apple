@@ -161,13 +161,6 @@ a:visited {
   text-decoration: none;
 }
 
-a:visited .footnote {
-  color: #06c;
-}
-
-a .footnote {
-  color: #06c;
-}
 /* Icons */
 
 .icon {
@@ -484,7 +477,7 @@ h6 {
   height: 736px;
   background-size: 3008px 736px;
   background-repeat: no-repeat;
-  background-image: url("/APPLE.com/images/units/hero_iphone14pro_spring__9xo85pm6sbmm_largetall.jpg");
+  background-image: url("../images/units/hero_iphone14pro_spring__9xo85pm6sbmm_largetall.jpg");
 }
 
 @media screen and (max-width: 1068px) {
@@ -493,7 +486,7 @@ h6 {
     height: 617px;
     background-size: 1068px 617px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/units/hero_iphone14pro_spring__9xo85pm6sbmm_medium.jpg");
+    background-image: url("../images/units/hero_iphone14pro_spring__9xo85pm6sbmm_medium.jpg");
   }
 }
 
@@ -503,7 +496,7 @@ h6 {
     height: 548px;
     background-size: 734px 548px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/units/hero_iphone14pro_spring__9xo85pm6sbmm_small.jpg");
+    background-image: url("../images/units/hero_iphone14pro_spring__9xo85pm6sbmm_small.jpg");
   }
 }
 
@@ -513,7 +506,7 @@ h6 {
     height: 694px;
     background-size: 1068px 694px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/units/hero_iphone14pro_spring__9xo85pm6sbmm_mediumtall.jpg");
+    background-image: url("../images/units/hero_iphone14pro_spring__9xo85pm6sbmm_mediumtall.jpg");
   }
 }
 
@@ -524,7 +517,7 @@ h6 {
   height: 736px;
   background-size: 3008px 736px;
   background-repeat: no-repeat;
-  background-image: url("/APPLE.com/images/units/hero_iphone14_yellow__eun20sn4imi6_largetall.jpg");
+  background-image: url("../images/units/hero_iphone14_yellow__eun20sn4imi6_largetall.jpg");
 }
 
 @media screen and (max-width: 1068px) {
@@ -533,7 +526,7 @@ h6 {
     height: 617px;
     background-size: 1068px 617px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/units/hero_iphone14_yellow__eun20sn4imi6_medium.jpg");
+    background-image: url("../images/units/hero_iphone14_yellow__eun20sn4imi6_medium.jpg");
   }
 }
 
@@ -543,7 +536,7 @@ h6 {
     height: 548px;
     background-size: 734px 548px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/units/hero_iphone14_yellow__eun20sn4imi6_small.jpg");
+    background-image: url("../images/units/hero_iphone14_yellow__eun20sn4imi6_small.jpg");
   }
 }
 
@@ -553,7 +546,7 @@ h6 {
     height: 694px;
     background-size: 1068px 694px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/units/hero_iphone14_yellow__eun20sn4imi6_mediumtall.jpg");
+    background-image: url("../images/units/hero_iphone14_yellow__eun20sn4imi6_mediumtall.jpg");
   }
 }
 
@@ -564,7 +557,7 @@ h6 {
   height: 736px;
   background-size: 3008px 736px;
   background-repeat: no-repeat;
-  background-image: url("/APPLE.com/images/units/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_largetall.jpg");
+  background-image: url("../images/units/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_largetall.jpg");
 }
 
 @media screen and (max-width: 1068px) {
@@ -573,7 +566,7 @@ h6 {
     height: 617px;
     background-size: 1068px 617px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/units/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_medium.jpg");
+    background-image: url("../images/units/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_medium.jpg");
   }
 }
 
@@ -583,7 +576,7 @@ h6 {
     height: 548px;
     background-size: 734px 548px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/units/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_small.jpg");
+    background-image: url("../images/units/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_small.jpg");
   }
 }
 
@@ -593,7 +586,7 @@ h6 {
     height: 694px;
     background-size: 1068px 694px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/units/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_mediumtall.jpg");
+    background-image: url("../images/units/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_mediumtall.jpg");
   }
 }
 
@@ -617,7 +610,7 @@ h6 {
   height: 72px;
   background-size: 190px 72px;
   background-repeat: no-repeat;
-  background-image: url("/APPLE.com/images/logo-images/hero_logo_apple_watch_series_8__ezarmmoobhg2_large.png");
+  background-image: url("../images/logo-images/hero_logo_apple_watch_series_8__ezarmmoobhg2_large.png");
   background-position: center;
 }
 
@@ -627,7 +620,7 @@ h6 {
     height: 61px;
     background-size: 160px 61px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/logo-images/hero_logo_apple_watch_series_8__ezarmmoobhg2_medium.png");
+    background-image: url("../images/logo-images/hero_logo_apple_watch_series_8__ezarmmoobhg2_medium.png");
   }
 }
 
@@ -637,7 +630,7 @@ h6 {
     height: 42px;
     background-size: 109px 42px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/logo-images/hero_logo_apple_watch_series_8__ezarmmoobhg2_small.png");
+    background-image: url("../images/logo-images/hero_logo_apple_watch_series_8__ezarmmoobhg2_small.png");
   }
 }
 
@@ -752,7 +745,7 @@ h6 {
   height: 580px;
   background-size: 1262px 580px;
   background-repeat: no-repeat;
-  background-image: url("/APPLE.com/images/promos/iphone_tradein_promo__d5au3rkw5kuq_large.jpg");
+  background-image: url("../images/promos/iphone_tradein_promo__d5au3rkw5kuq_large.jpg");
 }
 @media only screen and (max-width: 1068px) {
   .unit-image-wrapper
@@ -761,7 +754,7 @@ h6 {
     height: 490px;
     background-size: 516px 490px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/iphone_tradein_promo__d5au3rkw5kuq_medium.jpg");
+    background-image: url("../images/promos/iphone_tradein_promo__d5au3rkw5kuq_medium.jpg");
   }
 }
 
@@ -772,7 +765,7 @@ h6 {
     height: 548px;
     background-size: 734px 548px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/iphone_tradein_promo__d5au3rkw5kuq_small.jpg");
+    background-image: url("../images/promos/iphone_tradein_promo__d5au3rkw5kuq_small.jpg");
   }
 }
 
@@ -781,7 +774,7 @@ h6 {
   height: 32px;
   background-size: 155px 32px;
   background-repeat: no-repeat;
-  background-image: url("/APPLE.com/images/promos/promo-logos/logo_tradein__d1fpktgipvki_large.png");
+  background-image: url("../images/promos/promo-logos/logo_tradein__d1fpktgipvki_large.png");
   background-position: center;
 }
 
@@ -791,7 +784,7 @@ h6 {
     height: 27px;
     background-size: 127px 27px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/promo-logos/logo_tradein__d1fpktgipvki_medium.png");
+    background-image: url("../images/promos/promo-logos/logo_tradein__d1fpktgipvki_medium.png");
   }
 }
 
@@ -801,7 +794,7 @@ h6 {
     height: 27px;
     background-size: 128px 27px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/promo-logos/logo_tradein__d1fpktgipvki_small.png");
+    background-image: url("../images/promos/promo-logos/logo_tradein__d1fpktgipvki_small.png");
   }
 }
 
@@ -812,7 +805,7 @@ h6 {
   height: 580px;
   background-size: 1262px 580px;
   background-repeat: no-repeat;
-  background-image: url("/APPLE.com/images/promos/promo_wwdc23__b68ptht3mro2_large.jpg");
+  background-image: url("../images/promos/promo_wwdc23__b68ptht3mro2_large.jpg");
 }
 
 @media only screen and (max-width: 1068px) {
@@ -821,7 +814,7 @@ h6 {
     height: 490px;
     background-size: 516px 490px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/promo_wwdc23__b68ptht3mro2_medium.jpg");
+    background-image: url("../images/promos/promo_wwdc23__b68ptht3mro2_medium.jpg");
   }
 }
 
@@ -831,7 +824,7 @@ h6 {
     height: 548px;
     background-size: 734px 548px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/promo_wwdc23__b68ptht3mro2_small.jpg");
+    background-image: url("../images/promos/promo_wwdc23__b68ptht3mro2_small.jpg");
   }
 }
 
@@ -841,7 +834,7 @@ h6 {
   height: 580px;
   background-size: 1262px 580px;
   background-repeat: no-repeat;
-  background-image: url("/APPLE.com/images/promos/promo_final_cut_pro_ipad_avail__cgno7syd09w2_large.jpg");
+  background-image: url("../images/promos/promo_final_cut_pro_ipad_avail__cgno7syd09w2_large.jpg");
 }
 
 @media only screen and (max-width: 1068px) {
@@ -850,7 +843,7 @@ h6 {
     height: 490px;
     background-size: 516px 490px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/promo_final_cut_pro_ipad_avail__cgno7syd09w2_medium.jpg");
+    background-image: url("../images/promos/promo_final_cut_pro_ipad_avail__cgno7syd09w2_medium.jpg");
   }
 }
 
@@ -860,7 +853,7 @@ h6 {
     height: 548px;
     background-size: 734px 548px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/promo_final_cut_pro_ipad_avail__cgno7syd09w2_small.jpg");
+    background-image: url("../images/promos/promo_final_cut_pro_ipad_avail__cgno7syd09w2_small.jpg");
   }
 }
 /* Promo 4 */
@@ -869,7 +862,7 @@ h6 {
   height: 580px;
   background-size: 1262px 580px;
   background-repeat: no-repeat;
-  background-image: url("/APPLE.com/images/promos/promo_logic_pro_ipad_avail__czy8elml2som_large.jpg");
+  background-image: url("../images/promos/promo_logic_pro_ipad_avail__czy8elml2som_large.jpg");
 }
 
 @media only screen and (max-width: 1068px) {
@@ -898,7 +891,7 @@ h6 {
   height: 580px;
   background-size: 1262px 580px;
   background-repeat: no-repeat;
-  background-image: url("/APPLE.com/images/promos/promo__sw58lbodkmqq_large.jpg");
+  background-image: url("../images/promos/promo__sw58lbodkmqq_large.jpg");
 }
 
 @media only screen and (max-width: 1068px) {
@@ -907,7 +900,7 @@ h6 {
     height: 490px;
     background-size: 516px 490px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/promo__sw58lbodkmqq_medium.jpg");
+    background-image: url("../images/promos/promo__sw58lbodkmqq_medium.jpg");
   }
 }
 
@@ -917,7 +910,7 @@ h6 {
     height: 548px;
     background-size: 734px 548px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/promo__sw58lbodkmqq_small.jpg");
+    background-image: url("../images/promos/promo__sw58lbodkmqq_small.jpg");
   }
 }
 
@@ -927,7 +920,7 @@ h6 {
   height: 580px;
   background-size: 1262px 580px;
   background-repeat: no-repeat;
-  background-image: url("/APPLE.com/images/promos/tile__cauwwcyyn9hy_large.jpg");
+  background-image: url("../images/promos/tile__cauwwcyyn9hy_large.jpg");
 }
 
 @media only screen and (max-width: 1068px) {
@@ -936,7 +929,7 @@ h6 {
     height: 490px;
     background-size: 516px 490px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/tile__cauwwcyyn9hy_medium.jpg");
+    background-image: url("../images/promos/tile__cauwwcyyn9hy_medium.jpg");
   }
 }
 
@@ -946,7 +939,7 @@ h6 {
     height: 548px;
     background-size: 734px 548px;
     background-repeat: no-repeat;
-    background-image: url("/APPLE.com/images/promos/tile__cauwwcyyn9hy_small.jpg");
+    background-image: url("../images/promos/tile__cauwwcyyn9hy_small.jpg");
   }
 }
 
